@@ -20,7 +20,8 @@ Repository Contents
 Verilog-Core-Labs
 │
 ├── Combinational Circuits
-│   ├── Half Adder 
+│   ├── Half Adder
+        └──Quick link : [Full Adder](./Combinational%20Circuits/Full%20Adder/)
 │   ├── Full Adder
 │   ├── Full Subtractor
 │   └── Multiplexer
