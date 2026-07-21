@@ -16,31 +16,55 @@ Build a strong foundation for FPGA and ASIC design.
 
 Repository Contents
 
-```
-Verilog-Core-Labs
-│
-├── Combinational Circuits
-│   ├── Half Adder
-        └──[adder.v](./Combinational%20Circuits/Full%20Adder/adder.v)
-│   ├── Full Adder
-│   ├── Full Subtractor
-│   └── Multiplexer
+# Verilog-Core-Labs
 
-│
-├── Sequential Circuits
-│   ├── SR Flip-Flop
-│   ├── JK Flip-Flop
-│   ├── D Flip-Flop
-│   ├── Shift Registers
-│   ├── Down Counter
-│   └── Up Counter
-│
-└── Finite State Machines
-    ├── Mealy FSM
-    ├── Moore FSM
-    └── Sequence Detector
+## 📂 Combinational Circuits
+- 📁 [Half Adder](./Combinational%20Circuits/Half%20Adder/)
+  - 📄 [adder.v](./Combinational%20Circuits/Half%20Adder/adder.v)
+  - 📄 [adder_tb.v](./Combinational%20Circuits/Half%20Adder/adder_tb.v)
+  - 📄 [Waveform](./Simulation%20Waveforms/Half%20Adder.png)
 
-```
+- 📁 [Full Adder](./Combinational%20Circuits/Full%20Adder/)
+  - 📄 [adder.v](./Combinational%20Circuits/Full%20Adder/adder.v)
+  - 📄 [adder_tb.v](./Combinational%20Circuits/Full%20Adder/adder_tb.v)
+
+- 📁 [Half Subtractor](./Combinational%20Circuits/Half%20Subtractor/)
+- 📁 [Full Subtractor](./Combinational%20Circuits/Full%20Subtractor/)
+- 📁 [Multiplexer](./Combinational%20Circuits/Multiplexer/)
+- 📁 [Demultiplexer](./Combinational%20Circuits/Demultiplexer/)
+- 📁 [Arithmetic Logic Circuits](./Combinational%20Circuits/Arithmetic%20Logic%20Circuits/)
+
+---
+
+## 🔄 Sequential Circuits
+
+- 📁 [SR Flip-Flop](./Sequential%20Circuits/SR%20Flip-Flop/)
+- 📁 [JK Flip-Flop](./Sequential%20Circuits/JK%20Flip-Flop/)
+- 📁 [D Flip-Flop](./Sequential%20Circuits/D%20Flip-Flop/)
+- 📁 [T Flip-Flop](./Sequential%20Circuits/T%20Flip-Flop/)
+- 📁 [Shift Registers](./Sequential%20Circuits/Shift%20Registers/)
+- 📁 [Down Counter](./Sequential%20Circuits/Down%20Counter/)
+- 📁 [Up Counter](./Sequential%20Circuits/Up%20Counter/)
+
+---
+
+## 🤖 Finite State Machines
+
+- 📁 [Mealy FSM](./Finite%20State%20Machines/Mealy%20FSM/)
+- 📁 [Moore FSM](./Finite%20State%20Machines/Moore%20FSM/)
+- 📁 [Sequence Detector](./Finite%20State%20Machines/Sequence%20Detector/)
+
+---
+
+## 🧪 Testbenches
+
+- 📁 [Testbenches](./Testbenches/)
+
+---
+
+## 📈 Simulation Waveforms
+
+- 📁 [Simulation Waveforms](./Simulation%20Waveforms/)
 
 Features
 Synthesizable Verilog HDL Code
