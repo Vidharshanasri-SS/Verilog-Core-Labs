@@ -15,36 +15,31 @@ Perform functional simulation and waveform analysis.
 Build a strong foundation for FPGA and ASIC design.
 
 Repository Contents
+
+```
 Verilog-Core-Labs
 │
 ├── Combinational Circuits
 │   ├── Half Adder 
 │   ├── Full Adder
-│   ├── Half Subtractor
 │   ├── Full Subtractor
-│   ├── Multiplexer
-│   ├── Demultiplexer
-│   └── Arithmetic Logic Circuits
+│   └── Multiplexer
+
 │
 ├── Sequential Circuits
 │   ├── SR Flip-Flop
 │   ├── JK Flip-Flop
 │   ├── D Flip-Flop
-│   ├── T Flip-Flop
 │   ├── Shift Registers
 │   ├── Down Counter
 │   └── Up Counter
 │
-├── Finite State Machines
-│   ├── Mealy FSM
-│   ├── Moore FSM
-│   └── Sequence Detector
-│
-├── Testbenches
-│
-├── Simulation Waveforms
-│
-└── README.md
+└── Finite State Machines
+    ├── Mealy FSM
+    ├── Moore FSM
+    └── Sequence Detector
+
+```
 
 Features
 Synthesizable Verilog HDL Code
