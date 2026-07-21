@@ -19,12 +19,12 @@ Repository Contents
 # Verilog-Core-Labs
 
 ## 📂 Combinational Circuits
-- 📁 [Half Adder](./Combinational%20Circuits/Half%20Adder/)
-  - 📄 [adder.v](./Combinational%20Circuits/Half%20Adder/adder.v)
-  - 📄 [adder_tb.v](./Combinational%20Circuits/Half%20Adder/adder_tb.v)
-  - 📄 [Waveform](./Simulation%20Waveforms/Half%20Adder.png)
+- 📁 [Adder](./Combinational%20Circuits/Half%20Adder/)
+  - 📄 [full_adder.v](./Combinational%20Circuits/Adder/full_adder.v)
+  - 📄 [bit_adder.v](./Combinational%20Circuits/Adder/4bit_adder.v)
+ 
 
-- 📁 [Full Adder](./Combinational%20Circuits/Full%20Adder/)
+- 📁 [Subtractor](./Combinational%20Circuits/Full%20Adder/)
   - 📄 [adder.v](./Combinational%20Circuits/Full%20Adder/adder.v)
   - 📄 [adder_tb.v](./Combinational%20Circuits/Full%20Adder/adder_tb.v)
 
