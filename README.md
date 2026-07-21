@@ -21,7 +21,7 @@ Verilog-Core-Labs
 │
 ├── Combinational Circuits
 │   ├── Half Adder
-        └──Quick link : [adder](./Combinational%20Circuits/Full%20Adder/)
+        └──[adder.v](./Combinational%20Circuits/Full%20Adder/adder.v)
 │   ├── Full Adder
 │   ├── Full Subtractor
 │   └── Multiplexer
