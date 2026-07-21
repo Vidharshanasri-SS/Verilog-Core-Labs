@@ -18,10 +18,13 @@ Repository Contents
 
 # Verilog-Core-Labs
 
-## 📂 Combinational Circuits
-- 📁 [Adder](./Combinational%20Circuits/Half%20Adder/)
-  - 📄 [full_adder.v](./Combinational%20Circuits/Adder/full_adder.v)
-  - 📄 [bit_adder.v](./Combinational%20Circuits/Adder/4bit_adder.v)
+## 🔗 Quick Links
+
+### Combinational Circuits
+
+- 📁 [Adder](./combinational_circuits/adder/)
+  - 📄 [4-bit Adder](./combinational_circuits/adder/4bit_adder.v)
+  - 📄 [Full Adder](./combinational_circuits/adder/full_adder.v)
  
 
 - 📁 [Subtractor](./Combinational%20Circuits/Full%20Adder/)
