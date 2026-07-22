@@ -28,14 +28,19 @@ Repository Contents
  
 
 - 📁 [Subtractor](./Combinational%20Circuits/Full%20Adder/)
-  - 📄 [adder.v](./Combinational%20Circuits/Full%20Adder/adder.v)
-  - 📄 [adder_tb.v](./Combinational%20Circuits/Full%20Adder/adder_tb.v)
+  - 📄 [full_subtractor.v](./Combinational%20Circuits/subtractor/full_subtractor.v)
 
-- 📁 [Half Subtractor](./Combinational%20Circuits/Half%20Subtractor/)
-- 📁 [Full Subtractor](./Combinational%20Circuits/Full%20Subtractor/)
-- 📁 [Multiplexer](./Combinational%20Circuits/Multiplexer/)
-- 📁 [Demultiplexer](./Combinational%20Circuits/Demultiplexer/)
-- 📁 [Arithmetic Logic Circuits](./Combinational%20Circuits/Arithmetic%20Logic%20Circuits/)
+- 📁 [Mux2:1](./Combinational%20Circuits/Mux2:1/)
+  - 📄 [mux_2_1.v](./Combinational%20Circuits/mux2:1/mux_2_1.v)
+    
+- 📁 [Mux_4:1](./Combinational%20Circuits/Mux_4:1/)
+  - 📄 [mux_4_1.v](./Combinational%20Circuits/mux_4:1/mux_4_1.v)
+  - 📄 [mux_4_1_tb.v](./Combinational%20Circuits/mux_4:1/mux_4_1_tb.v)
+
+- 📁 [Mux_64:1](./Combinational%20Circuits/Mux_4:1/)
+  - 📄 [mux_32_16.v](./Combinational%20Circuits/mux_64:1/mux_32_16.v)
+  - 📄 [tb_mux_32_16.v](./Combinational%20Circuits/mux_64:1/tb_mux_32_16.v)
+    
 
 ---
 
@@ -59,15 +64,6 @@ Repository Contents
 
 ---
 
-## 🧪 Testbenches
-
-- 📁 [Testbenches](./Testbenches/)
-
----
-
-## 📈 Simulation Waveforms
-
-- 📁 [Simulation Waveforms](./Simulation%20Waveforms/)
 
 Features
 Synthesizable Verilog HDL Code
