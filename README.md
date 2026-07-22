@@ -28,10 +28,10 @@ Repository Contents
  
 
 - 📁 [Subtractor](./Combinational%20Circuits/Full%20Adder/)
-  - 📄 [full_subtractor.v](./Combinational%20Circuits/subtractor/full_subtractor.v)
+  - 📄 [full-subtractor.v](./Combinational%20Circuits/subtractor/full_subtractor.v)
 
 - 📁 [Mux2:1](./Combinational%20Circuits/Mux2:1/)
-  - 📄 [mux_2_1.v](./Combinational%20Circuits/mux2:1/mux_2_1.v)
+  - 📄 [mux-2-1.v](./Combinational%20Circuits/mux2:1/mux_2_1.v)
     
 - 📁 [Mux_4:1](./Combinational%20Circuits/Mux_4:1/)
   - 📄 [mux_4_1.v](./Combinational%20Circuits/mux_4:1/mux_4_1.v)
